@@ -1,0 +1,35 @@
+Suma:
+https://jsfiddle.net/0k3u00e5/
+
+Produkt:
+https://jsfiddle.net/ecm87njk/
+
+Prosjek:
+https://jsfiddle.net/4ao4t9mb/
+
+Najmanja vrijednost:
+https://jsfiddle.net/ugw9LwyL/
+
+Najveæa vrijednost
+https://jsfiddle.net/p5q1uhgm/
+
+Prebrojavanje
+https://jsfiddle.net/8rr353e4/
+
+Najèešæa vrijednost
+https://jsfiddle.net/999ugu3q/
+
+Najrjeða vrijednost
+https://jsfiddle.net/mvvy26ef/
+
+Sortiranje
+https://jsfiddle.net/6rxcp7z9/
+
+Map metoda
+https://jsfiddle.net/bzop0eco/
+
+Filter metoda
+https://jsfiddle.net/puuqxu6u/
+
+Reduce metoda
+https://jsfiddle.net/0bb1y3tq/

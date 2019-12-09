@@ -1,0 +1,9 @@
+
+Zadaci s brojevima i nizovima:
+https://jsfiddle.net/k3aLoc42/
+
+Zadaci s objektima:
+https://jsfiddle.net/3cgw597n/
+
+JSON zadaci:
+https://jsfiddle.net/nusk1e7x/
